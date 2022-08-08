@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">592732391295-dmqaaqljl6ojkhc93g5575rtgi5glb1i.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">592732391295</string>
+    <string name="google_api_key" translatable="false">AIzaSyCCozxBRNkuM9VNG3yPKTDFks97q-aB-Ns</string>
+    <string name="google_app_id" translatable="false">1:592732391295:android:4ee2b0bbf2509acd777c4a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCCozxBRNkuM9VNG3yPKTDFks97q-aB-Ns</string>
+    <string name="google_storage_bucket" translatable="false">rafikyapp.appspot.com</string>
+    <string name="project_id" translatable="false">rafikyapp</string>
+</resources>
